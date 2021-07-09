@@ -1,6 +1,7 @@
 <h4> ATM </h4>
 
-<h5> Description:  Using Javascript, CSS, and HTML, this Online ATM was created. You can now deposit and withdrawal your "cash" online! This code was refactored and styled to include, updated styling: font, colors, layout, phrasing, and currency. </h5>
+<h5> Description:</h5>  
+    <p> Using Javascript, CSS, and HTML, this Online ATM was created. You can now deposit and withdrawal your "cash" online! This code was refactored and styled to include, updated styling: font, colors, layout, phrasing, and currency.<p> 
 <p> 
 <h4> Installation: </h4>
 <p> To have your own Online ATM, simply save the files and open up the index.html file in your browser, or live server option. Enjoy! </p>
